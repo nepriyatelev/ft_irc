@@ -1,0 +1,17 @@
+# ninja log v5
+681	735	1668355117000000000	ft_irc	1a296a3fd576542
+3	693	1668350298000000000	CMakeFiles/ft_irc.dir/Main.cpp.o	db297d22540d9c42
+4	1051	1668348653000000000	CMakeFiles/ft_irc.dir/UserMessage.cpp.o	e8774c6cb3602970
+4	872	1668348653000000000	CMakeFiles/ft_irc.dir/User.cpp.o	6a39593f8f8fd70b
+3	743	1668350298000000000	CMakeFiles/ft_irc.dir/Server.cpp.o	15cae12948e08495
+3	681	1668355117000000000	CMakeFiles/ft_irc.dir/CommandService.cpp.o	132e7df9dd2cdadf
+4	853	1668348653000000000	CMakeFiles/ft_irc.dir/Socket.cpp.o	788f5ebc78c0a9ce
+6	1005	1668348653000000000	CMakeFiles/ft_irc.dir/MapUserDao.cpp.o	29638b7b4d6b1822
+4	690	1668350298000000000	CMakeFiles/ft_irc.dir/PassCommand.cpp.o	b669a7a0376e1492
+7	893	1668355900000000000	CMakeFiles/ft_irc.dir/Main.cpp.o	db297d22540d9c42
+8	903	1668355900000000000	CMakeFiles/ft_irc.dir/Server.cpp.o	15cae12948e08495
+9	1000	1668355900000000000	CMakeFiles/ft_irc.dir/NickCommand.cpp.o	78728d62b46ea4cf
+8	1005	1668355900000000000	CMakeFiles/ft_irc.dir/CommandService.cpp.o	132e7df9dd2cdadf
+1005	1083	1668355900000000000	ft_irc	f8b4823ded7873f4
+3	585	1668355921000000000	CMakeFiles/ft_irc.dir/CommandService.cpp.o	132e7df9dd2cdadf
+585	636	1668355921000000000	ft_irc	f8b4823ded7873f4

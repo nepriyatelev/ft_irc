@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/Users/modysseu/Desktop/ft_irc/build",
+  "command": "/usr/local/bin/g++-11  -I/Users/modysseu/Desktop/ft_irc/. -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++14 -o CMakeFiles/ft_irc.dir/Main.cpp.o -c /Users/modysseu/Desktop/ft_irc/Main.cpp",
+  "file": "/Users/modysseu/Desktop/ft_irc/Main.cpp"
+},
+{
+  "directory": "/Users/modysseu/Desktop/ft_irc/build",
+  "command": "/usr/local/bin/g++-11  -I/Users/modysseu/Desktop/ft_irc/. -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++14 -o CMakeFiles/ft_irc.dir/Socket.cpp.o -c /Users/modysseu/Desktop/ft_irc/Socket.cpp",
+  "file": "/Users/modysseu/Desktop/ft_irc/Socket.cpp"
+},
+{
+  "directory": "/Users/modysseu/Desktop/ft_irc/build",
+  "command": "/usr/local/bin/g++-11  -I/Users/modysseu/Desktop/ft_irc/. -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++14 -o CMakeFiles/ft_irc.dir/Server.cpp.o -c /Users/modysseu/Desktop/ft_irc/Server.cpp",
+  "file": "/Users/modysseu/Desktop/ft_irc/Server.cpp"
+},
+{
+  "directory": "/Users/modysseu/Desktop/ft_irc/build",
+  "command": "/usr/local/bin/g++-11  -I/Users/modysseu/Desktop/ft_irc/. -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++14 -o CMakeFiles/ft_irc.dir/MapUserDao.cpp.o -c /Users/modysseu/Desktop/ft_irc/MapUserDao.cpp",
+  "file": "/Users/modysseu/Desktop/ft_irc/MapUserDao.cpp"
+},
+{
+  "directory": "/Users/modysseu/Desktop/ft_irc/build",
+  "command": "/usr/local/bin/g++-11  -I/Users/modysseu/Desktop/ft_irc/. -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++14 -o CMakeFiles/ft_irc.dir/UserMessage.cpp.o -c /Users/modysseu/Desktop/ft_irc/UserMessage.cpp",
+  "file": "/Users/modysseu/Desktop/ft_irc/UserMessage.cpp"
+},
+{
+  "directory": "/Users/modysseu/Desktop/ft_irc/build",
+  "command": "/usr/local/bin/g++-11  -I/Users/modysseu/Desktop/ft_irc/. -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++14 -o CMakeFiles/ft_irc.dir/CommandService.cpp.o -c /Users/modysseu/Desktop/ft_irc/CommandService.cpp",
+  "file": "/Users/modysseu/Desktop/ft_irc/CommandService.cpp"
+},
+{
+  "directory": "/Users/modysseu/Desktop/ft_irc/build",
+  "command": "/usr/local/bin/g++-11  -I/Users/modysseu/Desktop/ft_irc/. -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++14 -o CMakeFiles/ft_irc.dir/PassCommand.cpp.o -c /Users/modysseu/Desktop/ft_irc/PassCommand.cpp",
+  "file": "/Users/modysseu/Desktop/ft_irc/PassCommand.cpp"
+},
+{
+  "directory": "/Users/modysseu/Desktop/ft_irc/build",
+  "command": "/usr/local/bin/g++-11  -I/Users/modysseu/Desktop/ft_irc/. -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++14 -o CMakeFiles/ft_irc.dir/User.cpp.o -c /Users/modysseu/Desktop/ft_irc/User.cpp",
+  "file": "/Users/modysseu/Desktop/ft_irc/User.cpp"
+}
+]

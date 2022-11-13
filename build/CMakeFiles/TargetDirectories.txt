@@ -1,0 +1,3 @@
+/Users/modysseu/Desktop/ft_irc/build/CMakeFiles/ft_irc.dir
+/Users/modysseu/Desktop/ft_irc/build/CMakeFiles/edit_cache.dir
+/Users/modysseu/Desktop/ft_irc/build/CMakeFiles/rebuild_cache.dir
